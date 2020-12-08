@@ -1,1 +1,1 @@
-# Hostname-to-IP-Address-Resolver
+# IPResolver
